@@ -7,7 +7,7 @@
 </a>
 
 📫 Just ping me: 
-<div id="badges">
+<div id="badges" align: "center">
   <a href="https://t.me/ErkhanDV">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Badge"/>
   </a>
