@@ -12,4 +12,4 @@
   </a>
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=erkhandv&stroke=%23BB432C)
+![Codewars](https://www.codewars.com/users/erkhandv/badges/large)
