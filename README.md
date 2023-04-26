@@ -7,10 +7,7 @@
   <a href="https://t.me/ErkhanDV">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Badge"/>
   </a>
-  <a href="https://discord.com/users/544904397511983109">
-    <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="telegram Badge"/>
-  </a>
-  <a href="https://discord.com/users/544904397511983109">
-    <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="telegram Badge"/>
+  <a href="mailto:erhan.denis@list.ru">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mail.Ru_Logo_2018.svg/76px-Mail.Ru_Logo_2018.svg.png" alt="telegram Badge"/>
   </a>
 </div>
