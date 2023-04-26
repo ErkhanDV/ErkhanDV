@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on administrating web-site at small company.
 
+![Codewars](https://github.r2v.ch/codewars?user=ErkhanDV&stroke=%23BB432C)
+
 📫 Just ping me: 
 <div id="badges">
   <a href="https://t.me/ErkhanDV">
@@ -11,5 +13,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mail.Ru_Logo_2018.svg/76px-Mail.Ru_Logo_2018.svg.png" alt="telegram Badge"/>
   </a>
 </div>
-
-![Codewars](https://github.r2v.ch/codewars?user=ErkhanDV&stroke=%23BB432C)
