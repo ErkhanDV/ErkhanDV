@@ -1,4 +1,4 @@
-### Hi there, my name is Denis 👋
+### <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" display="block" width="60"/> Hi there, my name is Denis
 
 🔭 I’m currently working on administrating web-site at small company.
 
