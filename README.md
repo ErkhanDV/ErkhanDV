@@ -12,4 +12,4 @@
   </a>
 </div>
 
-![Codewars](https://www.codewars.com/users/erkhandv/badges/large)
+![Codewars](https://www.codewars.com/users/ErkhanDV/badges/large)
