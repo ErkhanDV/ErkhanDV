@@ -4,8 +4,8 @@
 
 📫 Just ping me: 
 <div id="badges">
-  <a href="https://t.me/ErkhanDV" width: "50" display: "block">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge"/>
+  <a href="https://t.me/ErkhanDV">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/64px-Telegram_logo.svg.png" alt="Telegram Badge"/>
   </a>
   <a href="https://discord.com/users/544904397511983109">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="telegram Badge"/>
