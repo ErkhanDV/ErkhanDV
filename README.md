@@ -1,13 +1,13 @@
 ### <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" display="block" width="60"/> Hi there, my name is Denis
 
-🔭 I’m currently working on administrating web-site at small company.
+🔭 I’m currently working at low-voltage systems (CCTV, fire alarm) and also administrating web-site at small company.
 
 <a href="https://www.codewars.com/users/ErkhanDV">
   <img src="https://github.r2v.ch/codewars?user=ErkhanDV&stroke=%23BB432C" />
 </a>
 
-Used technologies in my projects:
-<div>
+🔨 Used technologies in my projects:
+<div display="flex" align-items="center" justify-content="center">
   <img src="https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png" alt="HTML5 icon" display="block" height="60"/>
   <img src="https://user-images.githubusercontent.com/60598547/119216744-062f0300-bac5-11eb-8e94-2741e9d464a7.png" alt="CSS3 icon" display="block" height="60"/>
   <img src="https://user-images.githubusercontent.com/60598547/119216758-1810a600-bac5-11eb-8783-447fa1f31176.png" alt="Sass icon" display="block" height="60"/>
@@ -25,6 +25,6 @@ Used technologies in my projects:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Badge"/>
   </a>
   <a href="mailto:erhan.denis@list.ru">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mail.Ru_Logo_2018.svg/76px-Mail.Ru_Logo_2018.svg.png" alt="telegram Badge"/>
+    <img src="https://companieslogo.com/img/orig/RL9A.F-1749ce42.png?t=1604430964" width="32" alt="Mail RU Badge"/>
   </a>
 </div>
