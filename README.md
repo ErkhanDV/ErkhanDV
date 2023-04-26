@@ -3,7 +3,7 @@
 🔭 I’m currently working on administrating web-site at small company.
 
 <a href="https://www.codewars.com/users/ErkhanDV">
-  ![Codewars](https://github.r2v.ch/codewars?user=ErkhanDV&stroke=%23BB432C)
+  <img src="https://github.r2v.ch/codewars?user=ErkhanDV&stroke=%23BB432C" />
 </a>
 
 📫 Just ping me: 
