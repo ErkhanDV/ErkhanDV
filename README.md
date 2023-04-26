@@ -11,3 +11,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mail.Ru_Logo_2018.svg/76px-Mail.Ru_Logo_2018.svg.png" alt="telegram Badge"/>
   </a>
 </div>
+
+![Codewars](https://github.r2v.ch/codewars?user=erkhandv&stroke=%23BB432C)
