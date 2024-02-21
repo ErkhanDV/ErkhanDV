@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Denis
 
-🔭 I’m currently at <a href="https://altecsystems.ru/">Altec Systems</a> and also administrating web-site at small company.
+🔭 I’m currently at <a href="https://www.naumen.ru/" color="orange"><b>NAUMEN</b></a>.
 
 <a href="https://www.codewars.com/users/ErkhanDV">
   <img src="https://github.r2v.ch/codewars?user=ErkhanDV&stroke=%23BB432C" />
