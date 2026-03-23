@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/react.svg" alt="React icon" display="block" height="60"/>
   <img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/redux.svg" alt="Redux icon" display="block" height="60"/>
   <img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/vite.svg" alt="Vite icon" display="block" height="60"/>
-  <img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/wp.svg" alt="Webpack icon" display="block" height="60"/>Ы
+  <img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/wp.svg" alt="Webpack icon" display="block" height="60"/>
   <img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/sass.svg" alt="Sass icon" display="block" height="60"/>
   <img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/js.svg" alt="JS icon" display="block" height="60" border-radius="5"/>
   <img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/ts.svg" alt="TS icon" display="block" height="60"/>
