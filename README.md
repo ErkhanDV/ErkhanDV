@@ -21,6 +21,6 @@
 
 📫 Just ping me: 
 <div id="badges">
-  <a href="https://t.me/ErkhanDV"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="Telegram Badge"/></a>
-  <a href="mailto:erhan.denis@list.ru"><img src="https://companieslogo.com/img/orig/RL9A.F-1749ce42.png?t=1604430964" width="32" alt="Mail RU Badge"/></a>
+  <a href="https://t.me/ErkhanDV"><img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/tg.svg" alt="Telegram Badge"/></a>
+  <a href="mailto:erhan.denis@list.ru"><img src="https://raw.githubusercontent.com/ErkhanDV/ErkhanDV/355690f2ebc0711248a7eb7ef0e553710d8bc532/mail.png" width="32" alt="Mail RU Badge"/></a>
 </div>
